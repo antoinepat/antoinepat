@@ -1,0 +1,318 @@
+{
+  "basics": {
+    "name": "Antoine Pathie",
+    "label": "Développeur Senior PHP / Wordpress",
+    "image": "/antoine.png",
+    "email": "antoine@antoinepathie.fr",
+    "url": "https://www.antoinepathie.fr",
+    "summary": [
+      "Développeur Web Freelance depuis 2013 spécialisé dans la création de site web sur-mesure pour des entreprises, e-commerçants et agences.",
+      "<br/><br/>*************",
+      "<br/><br/>A l'écoute de vos besoins, je vous accompagne dans la réalisation de votre projet web de la conception à la mise en ligne."
+    ],
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Thil",
+      "countryCode": "",
+      "region": "Région Toulousaine"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "antoine-pathie-5970a759",
+        "url": "https://www.linkedin.com/in/antoine-pathie-5970a759/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Développeur Freelance",
+      "position": "Développeur Web Wordpress/WooCommerce",
+      "location": "Thil, Haute-Garonne",
+      "url": "https://www.antoinepathie.fr",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "summary": "Création de site web sur-mesure pour des entreprises, e-commerçants et agences. Développement de fonctionnalités spécifiques, intégration d'API et optimisation SEO.",
+      "responsibilities": [
+        "Création de sites web sur-mesure pour des entreprises, e-commerçants et agences.",
+        "Collaboration avec de nombreuses agences web pour des missions de développement spécifiques.",
+        "Accompagnement de clients dans la mise en place de leur site"
+      ],
+      "skills": [
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "WordPress",
+        "WooCommerce",
+        "API REST",
+        "Hébergement Web",
+        "SEO",
+        "GitHub",
+        "Gestion de projet",
+        "Relation client",
+        "Formation",
+        "Veille technologique"
+      ]
+    },
+    {
+      "name": "Acrofish",
+      "position": "Développeur Web Junior",
+      "location": "Paris",
+      "url": "https://www.acrofish.nc",
+      "startDate": "2010-09-01",
+      "endDate": "2012-11-01",
+      "summary": "Développement de sites web",
+      "responsibilities": [
+        "CMS : Wordpress, Joomla, Drupal",
+        "Boutiques en ligne :  Prestashop/Woocommerce/Magento",
+        "Framework  : CakePHP"
+      ],
+      "skills": [
+        "PHP",
+        "Wordpress",
+        "Joomla",
+        "Drupal",
+        "Prestashop",
+        "Magento",
+        "CakePHP"
+      ]
+    },
+    {
+      "name": "IUT de Blois",
+      "position": "Intervenant professionnel",
+      "location": "Blois",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "Auprès des élèves du DUT SRC (Services et Réseaux de Communication)",
+      "responsibilities": [
+        "Apprentissage des bases du CMS Wordpress",
+        "Création d’un thème wordpress"
+      ],
+      "skills": [
+        "Wordpress",
+        "Formation"
+      ]
+    },
+    {
+      "name": "IUT de Blois",
+      "position": "Intervenant professionnel",
+      "location": "Blois",
+      "startDate": "2012",
+      "endDate": "2012",
+      "summary": "Auprès des élèves du DUT SRC (Services et réseaux de communication)",
+      "responsibilities": [
+        "Découverte des solutions open-source (Joomla!, Prestashop)"
+      ],
+      "skills": [
+        "Wordpress",
+        "Formation"
+      ]
+    },
+    {
+      "name": "Queensland University of Technology",
+      "position": "Stagiaire Développeur ActionScript",
+      "location": "Brisbane, Australia",
+      "startDate": "2009-04-01",
+      "endDate": "2009-07-01",
+      "summary": "Développement d'une application Flash destinée aux étudiants infirmiers pour l'apprentissage des maladies rénales au sein du service TALSS (Teaching and Learning Support Service)",
+      "responsibilities": [
+        "Développement d'une application Flash",
+        "Intégration des maquettes fournies par le service TALSS"
+      ],
+      "skills": [
+        "ActionScript",
+        "Adobe Flash"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "IUT Blois",
+      "area": "Activités et Techniques de Communication",
+      "studyType": "Licence Professionnelle",
+      "startDate": "2009",
+      "endDate": "2010"
+    },
+    {
+      "institution": "IUT Blois",
+      "area": "Services et Réseaux de Communication",
+      "studyType": "DUT",
+      "startDate": "2007",
+      "endDate": "2009"
+    },
+    {
+      "institution": "Lycée Dessaignes",
+      "area": "Economique et Social",
+      "studyType": "Baccalauréat",
+      "startDate": "2006"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certification Prestashop",
+      "date": "2012",
+      "issuer": "Prestashop",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Expert"
+    },
+    {
+      "name": "MySQL",
+      "level": "Expert"
+    },
+    {
+      "name": "HTML",
+      "level": "Expert"
+    },
+    {
+      "name": "CSS",
+      "level": "Expert"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avancé"
+    },
+    {
+      "name": "WordPress",
+      "level": "Expert"
+    },
+    {
+      "name": "Woocommerce",
+      "level": "Expert"
+    },
+    {
+      "name": "API REST",
+      "level": "Avancé"
+    },
+    {
+      "name": "Hébergement Web",
+      "level": "Avancé"
+    },
+    {
+      "name": "SEO",
+      "level": "Avancé"
+    },
+    {
+      "name": "Git",
+      "level": "Intermédiaire"
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "Intermédiaire"
+    },
+    {
+      "name": "Relation client",
+      "level": "Intermédiaire"
+    },
+    {
+      "name": "Formation",
+      "level": "Intermédiaire"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": "Courant"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Notions"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Pratique de la musique",
+      "keywords": [
+        "Guitare",
+        "Piano"
+      ]
+    },
+    {
+      "name": "Sport",
+      "keywords": [
+        "Course à pied",
+        "Spikeball"
+      ]
+    },
+    {
+      "name": "Jeux de société",
+      "keywords": [
+        "Escape game",
+        "Jeux de société"
+      ]
+    },
+    {
+      "name": "Vie associative",
+      "keywords": [
+        "Président d'association de parents d'élèves"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nespresso Nouvelle-Calédonie",
+      "isActive": true,
+        "image": "nespressonc.jpg",
+      "description": "Boutique WooCommerce de Nespresso Nouvelle-Calédonie",
+      "url": "https://nespresso.nc/"
+    },
+    {
+      "name": "Matest",
+      "image": "matest.jpg",
+      "isActive": true,
+      "description": "Site vitrine WordPress pour le fabricant de stores Matest.",
+      "url": "https://www.matest.fr/"
+    },
+    {
+      "name": "Boutique en ligne Matest",
+      "isActive": true,
+      "image": "matest_boutique.png",
+      "description": "Boutique WooCommerce pour le fabricant de stores Matest.",
+      "highlights": [
+        "Développement d'un configurateur produit'",
+        "Export automatique des commandes vers un logiciel de gestion"
+      ],
+      "url": "https://boutique.matest.fr/"
+    },
+    {
+      "name": "Label Because Music",
+      "isActive": true,
+      "image": "because.jpg",
+      "description": "Site vitrine bilingue WordPress pour le label Because Music.",
+      "url": "https://because-score.tv/"
+    },
+    {
+      "name": "Mairie de Limoux",
+      "isActive": true,
+        "image": "limoux.jpg",
+      "description": "Site institutionnel WordPress pour la mairie de Limoux.",
+      "url": "https://www.limoux.fr/"
+    },
+    {
+      "name": "Ezia Restaurant",
+      "isActive": true,
+        "image": "ezia.jpg",
+      "description": "Site vitrine WordPress + boutique en ligne WooCommerce pour le restaurant étoilé Ezia.",
+      "highlights": [
+        "Gestion & génération de bons cadeaux"
+      ],
+      "url": "https://www.ezia-restaurant.fr/"
+    },
+    {
+      "name": "Agence Boldie",
+      "isActive": true,
+      "image": "boldie.jpg",
+      "description": "Site vitrine WordPress pour l'agence de communication Boldie.",
+      "highlights": [],
+      "url": "https://agence-boldie.com/"
+    }
+  ]
+}

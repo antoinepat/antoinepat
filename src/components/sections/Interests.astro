@@ -1,0 +1,65 @@
+---
+import Section from "../Section.astro";
+
+import { interests } from "@cv";
+---
+
+<Section className={Astro.props.className} title="Centres d'intérêts">
+  <div class="grid grid-cols-1 gap-3 md:grid-cols-2 print:flex print:flex-col">
+    {
+      interests.map(({ name,keywords  }) => {
+        return (
+          <div role="contentinfo" class="grid-span-1 ring-skin-muted relative flex flex-col rounded-md bg-skin-button-muted/50 p-5 shadow-sm ring-1">
+            <div class="flex items-center justify-between space-x-[10px]">
+              <h2> {name} </h2>
+            </div>
+            <ul class="mt-1 text-sm text-skin-muted">
+              {
+                //display the keywords of the interest
+                keywords.map((keyword) => {
+                  return <li>{keyword}</li>;
+                })
+              }
+            </ul>
+          </div>
+        );
+      })
+    }
+  </div>
+</Section>
+
+<style>
+    ul {
+        @apply ml-4 list-disc space-y-1;
+        li {
+            @apply text-skin-muted;
+        }
+    }
+
+    footer {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+        font-size: 0.6rem;
+    }
+
+    footer span {
+        border-radius: 6px;
+        background: #eee;
+        color: #444;
+        font-size: 0.6rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
+    }
+    @keyframes flicker {
+        0% {
+            opacity: 1;
+        }
+        50% {
+            opacity: 0.25;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+</style>
