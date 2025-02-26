@@ -18,7 +18,7 @@ interface Basics {
   label: string;
   image: string;
   email: string;
-  phone: string;
+  phone?: string;
   url: string;
   summary: string;
   location: Location;
@@ -91,7 +91,6 @@ interface Publications {
 
 interface Education {
   institution: string;
-  url: string;
   area: string;
   studyType: string;
   startDate: DateStr;
