@@ -5,11 +5,9 @@
     "image": "/antoine.png",
     "email": "antoine@antoinepathie.fr",
     "url": "https://www.antoinepathie.fr",
-    "summary": [
-      "Développeur Web Freelance depuis 2013 spécialisé dans la création de site web sur-mesure pour des entreprises, e-commerçants et agences.",
-      "<br/><br/>*************",
-      "<br/><br/>A l'écoute de vos besoins, je vous accompagne dans la réalisation de votre projet web de la conception à la mise en ligne."
-    ],
+    "summary":
+      "Développeur Web Freelance depuis 2013 spécialisé dans la création de site web sur-mesure pour des entreprises, e-commerçants et agences.<br/><br/>*************<br/><br/>A l'écoute de vos besoins, je vous accompagne dans la réalisation de votre projet web de la conception à la mise en ligne"
+    ,
     "theme": "default",
     "location": {
       "address": "",
