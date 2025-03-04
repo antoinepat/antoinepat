@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Antoine Pathie",
-    "label": "Développeur Senior PHP / Wordpress",
+    "label": "Développeur Senior PHP / WordPress",
     "image": "antoine.png",
     "email": "antoine@antoinepathie.fr",
     "url": "https://www.antoinepathie.fr",
@@ -27,7 +27,7 @@
   "work": [
     {
       "name": "Développeur Freelance",
-      "position": "Développeur Web Wordpress/WooCommerce",
+      "position": "Développeur Web WordPress/WooCommerce",
       "location": "Thil, Haute-Garonne",
       "url": "https://www.antoinepathie.fr",
       "startDate": "2013-01-01",
@@ -36,7 +36,8 @@
       "responsibilities": [
         "Création de sites web sur-mesure pour des entreprises, e-commerçants et agences.",
         "Collaboration avec de nombreuses agences web pour des missions de développement spécifiques.",
-        "Accompagnement de clients dans la mise en place de leur site"
+        "Accompagnement de clients dans la mise en place de leur site",
+        "Maintenance applicative et corrective des sites web et de leur hébergement"
       ],
       "skills": [
         "PHP",
@@ -53,32 +54,11 @@
         "Gestion de projet",
         "Relation client",
         "Formation",
-        "Veille technologique"
+        "Veille technologique",
+        "Maintenance applicative"
       ]
     },
-    {
-      "name": "Acrofish",
-      "position": "Développeur Web Junior",
-      "location": "Paris",
-      "url": "https://www.acrofish.nc",
-      "startDate": "2010-09-01",
-      "endDate": "2012-11-01",
-      "summary": "Développement de sites web",
-      "responsibilities": [
-        "CMS : Wordpress, Joomla, Drupal",
-        "Boutiques en ligne :  Prestashop/Woocommerce/Magento",
-        "Framework  : CakePHP"
-      ],
-      "skills": [
-        "PHP",
-        "Wordpress",
-        "Joomla",
-        "Drupal",
-        "Prestashop",
-        "Magento",
-        "CakePHP"
-      ]
-    },
+
     {
       "name": "IUT de Blois",
       "position": "Intervenant professionnel",
@@ -87,11 +67,11 @@
       "endDate": "2014",
       "summary": "Auprès des élèves du DUT SRC (Services et Réseaux de Communication)",
       "responsibilities": [
-        "Apprentissage des bases du CMS Wordpress",
-        "Création d’un thème wordpress"
+        "Apprentissage des bases du CMS WordPress",
+        "Création d’un thème WordPress"
       ],
       "skills": [
-        "Wordpress",
+        "WordPress",
         "Formation"
       ]
     },
@@ -106,8 +86,31 @@
         "Découverte des solutions open-source (Joomla!, Prestashop)"
       ],
       "skills": [
-        "Wordpress",
+        "WordPress",
         "Formation"
+      ]
+    },
+    {
+      "name": "Acrofish",
+      "position": "Développeur Web Junior",
+      "location": "Paris",
+      "url": "https://www.acrofish.nc",
+      "startDate": "2010-09-01",
+      "endDate": "2012-11-01",
+      "summary": "Développement de sites web",
+      "responsibilities": [
+        "CMS : WordPress, Joomla, Drupal",
+        "Boutiques en ligne :  Prestashop/Woocommerce/Magento",
+        "Framework  : CakePHP"
+      ],
+      "skills": [
+        "PHP",
+        "WordPress",
+        "Joomla",
+        "Drupal",
+        "Prestashop",
+        "Magento",
+        "CakePHP"
       ]
     },
     {
@@ -262,6 +265,23 @@
         "image": "nespressonc.jpg",
       "description": "Boutique WooCommerce de Nespresso Nouvelle-Calédonie",
       "url": "https://nespresso.nc/"
+    }
+    ,{
+      "github": "",
+      "name": "Société des Amis des Musées d’Orsay et de l’Orangerie",
+      "isActive": true,
+      "image": "samo.jpg",
+      "description": "Site vitrine Wordpress pour la Société des Amis des Musées d’Orsay et de l’Orangerie.",
+      "highlights": [],
+      "url": "https://amis-musee-orsay.org/"
+    },
+    {
+      "github": "",
+      "name": "Tordjman Métal",
+      "image": "tordjmanmetal.jpg",
+      "isActive": true,
+      "description": "Site vitrine WordPress pour le fabricant de portes blindées Tordjman Métal.",
+      "url": "https://www.tordjmanmetal.fr/"
     },
     {
       "github": "",
@@ -318,6 +338,106 @@
       "description": "Site vitrine WordPress pour l'agence de communication Boldie.",
       "highlights": [],
       "url": "https://agence-boldie.com/"
+    }
+  ,{
+      "github": "",
+      "name": "Chambre d’agriculture de Nouvelle Calédonie",
+      "isActive": true,
+      "image": "capnc.jpg",
+      "description": "Site vitrine WordPress et Webapp pour la Chambre d’agriculture de Nouvelle Calédonie.",
+      "highlights": [
+      ],
+      "url": "https://www.capnc.nc/"
+    }
+  ,{
+      "github": "",
+      "name": "CHT Gaston-Bourret",
+      "isActive": true,
+      "image": "CHT.jpg",
+      "description": "Site vitrine WordPress pour le Centre Hospitalier Territorial Gaston-Bourret.",
+      "highlights": [],
+      "url": "https://www.cht.nc/"
+    }
+  ,
+    {
+      "github": "",
+      "name": "Cinémas 93",
+      "isActive": true,
+      "image": "cinemas93.png",
+      "description": "Site vitrine WordPress pour l'association Cinémas 93.",
+      "highlights": [],
+      "url": "https://www.cinema93.org/"
+    }
+  ,
+    {
+      "github": "",
+      "name": "Crèche and Do",
+      "isActive": true,
+      "image": "crecheanddo.jpg",
+      "description": "Migration Drupal vers WordPress pour l'association Crèche and Do à Toulouse",
+      "highlights": [],
+      "url": "https://www.crecheanddo.fr/"
+    }
+  ,
+    {
+      "github": "",
+      "name": "Don du sang NC",
+      "isActive": true,
+      "image": "dondusangnc.jpg",
+      "description": "Site vitrine WordPress pour le Don du sang en Nouvelle-Calédonie.",
+      "highlights": [],
+      "url": "https://www.dondusang.nc/"
+    }  ,
+    {
+      "github": "",
+      "name": "La Table *",
+      "isActive": true,
+      "image": "latable.jpeg",
+      "description": "Site et boutique en ligne WordPress pour le restaurant étoilé La Table * du chef Christophe Hay.",
+      "highlights": [],
+      "url": "https://www.latabledacote.fr/"
+    },
+    {
+      "github": "",
+      "name": "Le fil des images",
+      "isActive": true,
+      "image": "lefildesimages.jpg",
+      "description": "Site vitrine Wordpress de l'association Le fil des images.",
+      "highlights": [],
+      "url": "https://www.lefildesimages.fr/"
+    },
+    {
+      "github": "",
+      "name": "Musée du vin de champagne d’Epernay",
+      "isActive": true,
+      "image": "epernay.jpg",
+      "description": "Site vitrine Wordpress du musée du vin de Champagne et d'archéologie d’Epernay.",
+      "highlights": [],
+      "url": "https://archeochampagne.epernay.fr/"
+    },    {
+      "github": "",
+      "name": "Natae Baby",
+      "isActive": true,
+      "image": "natae.jpg",
+      "description": "Site vitrine WordPress du fabricant français de biberon Natae Baby.",
+      "highlights": [],
+      "url": "https://natae-baby.eu/"
+    }  ,{
+      "github": "",
+      "name": "Pixivore",
+      "isActive": true,
+      "image": "pixivore.jpg",
+      "description": "Site vitrine Wordpress pour la plateforme d'éducation aux images Pixivore.",
+      "highlights": [],
+      "url": "https://www.pixivore.fr/"
+    },{
+      "github": "",
+      "name": "Produits frais Agriculture",
+      "isActive": true,
+      "image": "pfa.jpg",
+      "description": "Plateforme de mise en relation entre producteurs et consommateurs de produits frais en Nouvelle-Calédonie.",
+      "highlights": [],
+      "url": "https://produitsfrais-agriculture.nc/"
     }
   ]
 }
